@@ -9,8 +9,8 @@ import (
 	"flag"
 	"math/rand"
 	"strconv"
-	"rialto/detc/client"
-	"rialto/detc/common"
+	"../client"
+	"../common"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"encoding/binary"
 	"hash"
 	"hash/fnv"
-	"rialto/detc/common"
+	"../common"
 )
 
 type Client struct {

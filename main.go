@@ -13,8 +13,8 @@ import (
 	//"runtime/pprof"
 	"syscall"
 	"flag"
-	"rialto/detc/common"
-	"rialto/detc/server"
+	"./common"
+	"./server"
 )
 
 type sigv_info struct {

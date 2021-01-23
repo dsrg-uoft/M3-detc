@@ -11,7 +11,7 @@ import (
 	"flag"
 	"math/rand"
 	"strconv"
-	"rialto/detc/server"
+	"../server"
 )
 
 type sigv_info struct {
